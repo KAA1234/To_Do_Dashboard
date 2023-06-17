@@ -13,6 +13,26 @@
 #picture {
     margin-right: auto;
     margin-left: auto;
-    width: 1400px;
+    width: 980px;
     max-height: 100px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+
   }
+
+.float-child1 {
+    width: 70%;
+    float: left;
+}  
+
+.float-child2 {
+    width: 30%;
+    float: right;
+    max-height: 100px;
+}  
+
+.weatherwidget-io {
+    max-height: 100px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
