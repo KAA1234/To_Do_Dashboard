@@ -1,0 +1,18 @@
+* {
+    background-color: forestgreen;
+    box-sizing: border-box;
+    
+}
+
+.centered {
+    margin: 0 auto;
+    width: 1400px;
+    height: 100px;
+}
+
+#picture {
+    margin-right: auto;
+    margin-left: auto;
+    width: 1400px;
+    max-height: 100px;
+  }
