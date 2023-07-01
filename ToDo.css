@@ -1,6 +1,7 @@
 * {
     background-color: forestgreen;
     box-sizing: border-box;
+    display:flex;
     
 }
 
@@ -39,8 +40,8 @@
 
 .container {
     background: black;
-    max-width: 400px;
-    height: 500px;
+    min-width: 400px;
+    min-height: 500px;
     margin: auto;
     border-radius:20px;
   }
